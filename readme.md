@@ -41,6 +41,11 @@ A list of ressources for all topics related to quantitative finance!
 - [Github Repositories](#Github-Repositories)
 - [Blogs](#Blogs)
 - [Bonus](#Bonus)
+
+- Rough Road Map:
+  	Financial Markets -> Volatility Theory -> Lévy processes and Jump Diffusion Models -> Interest Rate Modeling Theory -> Bayesian Statistics and Monte-Carlo Methods -> Numerical Finance -> Machine Learning and Financial Applications.
+
+
 <!-- CONTENT -->
 
 ## Mathematical Finance
